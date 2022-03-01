@@ -2,7 +2,7 @@
 
 Accept the invitation (from GitHub or through the link) and clone the central repository:
 
-`git clone https://<YourToken>@github.com/<YourUsername>/LabMAPD_A`
+`git clone https://<YourToken>@github.com/<YourUsername>/LabLOCP_B`
 
 * Note that this operation must be done only once.
 
