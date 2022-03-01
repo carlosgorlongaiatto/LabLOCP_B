@@ -8,7 +8,7 @@ Accept the invitation (from GitHub or through the link) and clone the central re
 
 Each time before starting the work session you must update your local main branch with respect to origin main (i.e. the remote branch on GitHub) to make sure you have everyone else's changes:
 
-`git checkout main`
+`cd ../LabLOCP_B`
 
 `git fetch origin`
 
