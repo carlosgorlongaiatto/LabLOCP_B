@@ -33,8 +33,3 @@ Then commit your files:
 Finally you must push your changes up to the remote branch on GitHub:
 
 `git push origin main`
-
-Don't forget to do all these things with love.
-
-`git never speak of the prophets`
-
