@@ -8,3 +8,5 @@
 
 ## Index:
 - [ex01](ex01.ipynb): gradient descent methods
+- [ex02](ex01): selection of neural network hyper-parameters for a binary classification task
+
