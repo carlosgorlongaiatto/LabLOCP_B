@@ -7,4 +7,4 @@
 - [Carlo Sgorlon Gaiatto](https://github.com/carlosgorlongaiatto)
 
 ## Index:
-- 01ex: gradient descent methods
+- [ex01](ex01.ipynb): gradient descent methods
