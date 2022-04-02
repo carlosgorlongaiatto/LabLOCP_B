@@ -9,4 +9,5 @@
 ## Index:
 - [ex01](ex01.ipynb): gradient descent methods
 - [ex02](ex02): selection of neural network hyper-parameters for a binary classification task
-
+- [ex03](ex04): convolutional neural network
+- [ex04](ex04): gardient-boosted trees (XGBoost)
