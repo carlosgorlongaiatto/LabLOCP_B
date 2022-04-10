@@ -11,3 +11,4 @@
 - [ex02](ex02): selection of neural network hyper-parameters for a binary classification task
 - [ex03](ex04): convolutional neural network
 - [ex04](ex04): gardient-boosted trees (XGBoost)
+- [ex05](ex05): data visualization (t-SNE) and data clustering (DBSCAN)
