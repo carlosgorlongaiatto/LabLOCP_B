@@ -12,3 +12,4 @@
 - [ex03](ex04): convolutional neural network
 - [ex04](ex04): gardient-boosted trees (XGBoost)
 - [ex05](ex05): data visualization (t-SNE) and data clustering (DBSCAN)
+- [ex06](ex06): restricted Boltzmann machine
